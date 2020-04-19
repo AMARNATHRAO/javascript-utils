@@ -53,5 +53,3 @@ const customThumbnail = text => {
     text: thumbnailText,
   };
 };
-
-export default customThumbnail;
